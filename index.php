@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>PHP Test</title>
+  <title>HandsOn - OPENSHIFT</title>
  </head>
  <body>
- <?php echo '<p>Hello World!!!!</p>'; ?> 
+ <?php echo '<h6><p>Hello World!!!!</p></h6>'; ?> 
  </body>
 </html>
