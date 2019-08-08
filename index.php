@@ -6,7 +6,7 @@
   <style>
   body,h1 {font-family: "Raleway", sans-serif}
   body, html {height: 100%}.bgimg {
-  	background-image: url('/w3images/forestbridge.jpg');
+  	background-image: url('C:\Users\oi310638\Pictures\DevOps_1296888379.jpg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
