@@ -15,7 +15,7 @@
  <body>
  <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
   <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    <img src="OIOI.0004.008.AF.160105.Logomarca_RGB_Roxo_7G.png" alt="some text" width=150 height=150>
+    <img src="OIOI.0004.008.AF.160105.Logomarca_RGB_Roxo_7G.png" alt="some text" width=250 height=250>
     </img>
   </div>
   <div class="w3-display-middle">
