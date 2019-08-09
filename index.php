@@ -15,11 +15,11 @@
  <body>
  <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
   <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    <img src="OIOI.0004.008.AF.160105.Logomarca_RGB_Roxo_7G.png" alt="some text" width=100 height=120>
+    <img src="OIOI.0004.008.AF.160105.Logomarca_RGB_Roxo_7G.png" alt="some text" width=120 height=120>
     </img>
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top"><center>HandsOn - DEVOPS <p>OPENSHIFT</p></h1></center>
+    <h1 class="w3-jumbo w3-animate-top"><font size=+3><center>HandsOn - DEVOPS <p>OPENSHIFT</p></h1></center></font>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
   </div>
