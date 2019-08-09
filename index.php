@@ -19,7 +19,7 @@
     </img>
   </div>
   <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top"><font size=+3><center>HandsOn - DEVOPS <p>OPENSHIFT</p></h1></center></font>
+    <h1 class="w3-jumbo w3-animate-top"><font size=+5>HandsOn - DEVOPS <p>OPENSHIFT</p></h1></font>
   </div>
   <div class="w3-display-bottomleft w3-padding-large">
   </div>
