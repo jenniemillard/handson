@@ -16,6 +16,7 @@
  <div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
   <div class="w3-display-topleft w3-padding-large w3-xlarge">
     <img src="OIOI.0004.008.AF.160105.Logomarca_RGB_Roxo_7G.png" alt="some text" width=60 height=40>
+    </img>
   </div>
   <div class="w3-display-middle">
     <h1 class="w3-jumbo w3-animate-top">HandsOn - DEVOPS - OPENSHIFT</h1>
